@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# excluding build and libs dir
+build/
+libs/
+
